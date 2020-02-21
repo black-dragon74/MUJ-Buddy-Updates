@@ -11,6 +11,6 @@
     "- Added support for app update notifications",
     "- Added support for mess menu",
     "- Fixed memory leaks in Login Activity",
-    "- Remove unused 'notifications' section",
+    "- Remove unused 'notifications' section"
   ]
 }
