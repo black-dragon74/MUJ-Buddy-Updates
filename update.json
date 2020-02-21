@@ -1,0 +1,16 @@
+{
+  "latestVersion": "1.5-beta",
+  "latestVersionCode": 15,
+  "url": "https://github.com/black-dragon74/MUJ-Buddy-Android/releases/download/1.5/MUJ_Buddy-1.5-beta-release.apk",
+  "releaseNotes": [
+    "Here's the complete list of what's new",
+    " ",
+    "- Updated faculty contact list. Refresh to see.",
+    "- Added support for touch on phone/email to call/email faculty",
+    "- Added support for hold to copy phone/email",
+    "- Added support for app update notifications",
+    "- Added support for mess menu",
+    "- Fixed memory leaks in Login Activity",
+    "- Remove unused 'notifications' section",
+  ]
+}
