@@ -1,15 +1,12 @@
 {
-  "latestVersion": "1.6-beta",
-  "latestVersionCode": 16,
-  "url": "https://github.com/black-dragon74/MUJ-Buddy-Updates/releases/download/1.6/MUJ_Buddy-1.6-beta-release.apk",
+  "latestVersion": "1.7-beta",
+  "latestVersionCode": 17,
+  "url": "https://github.com/black-dragon74/MUJ-Buddy-Updates/releases/download/1.7/MUJ_Buddy-1.7-beta-release.apk",
   "releaseNotes": [
     "Here's the complete list of what's new",
     " ",
-    "- Updated app version to 1.6-beta.",
-    "- Dark mode finally comes to app Settings.",
-    "- Don't directly call faculty, open dialer with number dialed.",
-    "- Clicking on phone/email icon also calls/email faculty.",
-    "- Fixed rare cases where incorrect semester was displayed in Settings.",
-    "- Fixed Mess Menu crashes on some chinese ROMs like MIUI."
+    "- Updated gradle toolchain to 3.6.2",
+    "- Updated Kotlin lang. version to 1.3.71",
+    "- Bypassed DMS daily login limits"
   ]
 }
