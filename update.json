@@ -1,12 +1,17 @@
 {
-  "latestVersion": "1.7-beta",
-  "latestVersionCode": 17,
-  "url": "https://github.com/black-dragon74/MUJ-Buddy-Updates/releases/download/1.7/MUJ_Buddy-1.7-beta-release.apk",
+  "latestVersion": "1.8-beta",
+  "latestVersionCode": 18,
+  "url": "https://github.com/black-dragon74/MUJ-Buddy-Updates/releases/download/1.8/MUJ_Buddy-1.8-beta-release.apk",
   "releaseNotes": [
     "Here's the complete list of what's new",
     " ",
-    "- Updated gradle toolchain to 3.6.2",
-    "- Updated Kotlin lang. version to 1.3.71",
-    "- Bypassed DMS daily login limits"
+    "- Fixed a bug where loading indicator was not dismissed in some cases",
+    "- Login limit bypass is now integrated into the API itself (spid :B)",
+    "- Added support for in-app captcha verification (beta)",
+    "- Added switch to fallback to good old web login",
+    "- Added support for Android R (API 30)",
+    "- Updated Toolchain, Kotlin and deps to latest version",
+    " ",
+    "- Moved the API server to France (not really a change)"
   ]
 }
