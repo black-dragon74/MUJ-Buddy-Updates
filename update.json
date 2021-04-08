@@ -1,17 +1,17 @@
 {
-  "latestVersion": "1.8-beta",
-  "latestVersionCode": 18,
-  "url": "https://github.com/black-dragon74/MUJ-Buddy-Updates/releases/download/1.8/MUJ_Buddy-1.8-beta-release.apk",
+  "latestVersion": "2.0",
+  "latestVersionCode": 20,
+  "url": "https://github.com/black-dragon74/MUJ-Buddy-Updates/releases/download/2.0/MUJ_Buddy-2.0-release.apk",
   "releaseNotes": [
-    "Here's the complete list of what's new",
+    "Aloha! This is a huge update. The app should feel at least 2x more responsive.",
+    "The API has been completely re-written in Golang as a production grade server",
+    "The older versions of app and the API will no longer work after May 2021",
+    "Here is what's new in the app:",
     " ",
-    "- Fixed a bug where loading indicator was not dismissed in some cases",
-    "- Login limit bypass is now integrated into the API itself (spid :B)",
-    "- Added support for in-app captcha verification (beta)",
-    "- Added switch to fallback to good old web login",
-    "- Added support for Android R (API 30)",
-    "- Updated Toolchain, Kotlin and deps to latest version",
+    "- Removed events and fee sections",
+    "- App is now compiled using Kotlin JVM IR backend",
+    "- Updated dependencies and toolchains to latest versions",
     " ",
-    "- Moved the API server to France (not really a change)"
+    "- Also, API server now lies in Helsinki"
   ]
 }
